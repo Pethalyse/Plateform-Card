@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1965af1afed1ce543843331fe5c032f4, type: 3}
+  m_Name: Sphere
+  m_EditorClassIdentifier: 
+  persoName: Sphere
+  persoDescription: "une petite sph\xE8re"
+  persoPrefab: {fileID: 0}
+  splashART: {fileID: 21300000, guid: abff58660e7132a47a146eb5452fb8d9, type: 3}
+  persoHealth: 50
+  persoDamage: 30
+  mouvements: 3
+  persoAARange: 2
+  persoAACost: 3
+  persoCompetences: 000000000000000000000000
